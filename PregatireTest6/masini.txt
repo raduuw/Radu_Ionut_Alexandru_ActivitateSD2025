@@ -1,0 +1,10 @@
+1,3,5000,Astra,Ionescu Ion,A
+2,5,8000,Mokka,Vasilescu Gigel,S
+3,4,9000,Passat,Popescu Gigel,I
+4,5,4000,Arkana,Gheorghe Vasile,B
+5,3,11000,Logan,Ionescu Vasile,C
+6,5,4000,Sportage,Badescu Gigel,J
+7,3,4000,Astra,Gheorghe Gigel,A
+8,6,12000,Mokka,Gheorghe Ion,U
+9,3,2700,Passat,Ionescu Marcel,I
+10,5,4000,Mokka,Vasilescu V Gigel,B
