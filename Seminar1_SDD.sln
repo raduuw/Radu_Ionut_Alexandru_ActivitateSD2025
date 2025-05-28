@@ -29,6 +29,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Seminar9_SDD", "Seminar9_SD
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PregatireTest2_Arbore", "PregatireTest2_Arbore\PregatireTest2_Arbore.vcxproj", "{7BD4D23A-7F88-4A9E-BE7C-79BC6F488112}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Seminar10_SDD", "Seminar10_SDD\Seminar10_SDD.vcxproj", "{EBD5E7D6-87BD-4014-AB57-AC347862B1A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -141,6 +143,14 @@ Global
 		{7BD4D23A-7F88-4A9E-BE7C-79BC6F488112}.Release|x64.Build.0 = Release|x64
 		{7BD4D23A-7F88-4A9E-BE7C-79BC6F488112}.Release|x86.ActiveCfg = Release|Win32
 		{7BD4D23A-7F88-4A9E-BE7C-79BC6F488112}.Release|x86.Build.0 = Release|Win32
+		{EBD5E7D6-87BD-4014-AB57-AC347862B1A7}.Debug|x64.ActiveCfg = Debug|x64
+		{EBD5E7D6-87BD-4014-AB57-AC347862B1A7}.Debug|x64.Build.0 = Debug|x64
+		{EBD5E7D6-87BD-4014-AB57-AC347862B1A7}.Debug|x86.ActiveCfg = Debug|Win32
+		{EBD5E7D6-87BD-4014-AB57-AC347862B1A7}.Debug|x86.Build.0 = Debug|Win32
+		{EBD5E7D6-87BD-4014-AB57-AC347862B1A7}.Release|x64.ActiveCfg = Release|x64
+		{EBD5E7D6-87BD-4014-AB57-AC347862B1A7}.Release|x64.Build.0 = Release|x64
+		{EBD5E7D6-87BD-4014-AB57-AC347862B1A7}.Release|x86.ActiveCfg = Release|Win32
+		{EBD5E7D6-87BD-4014-AB57-AC347862B1A7}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
