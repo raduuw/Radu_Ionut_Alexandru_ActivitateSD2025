@@ -35,6 +35,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PregatireTest2_ArboriE", "P
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Seminar11", "Seminar11\Seminar11.vcxproj", "{88323596-0A34-4690-B612-D2E260D46B75}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PregatireTest2_SQ", "PregatireTest2_SQ\PregatireTest2_SQ.vcxproj", "{F2B1927F-88D1-4357-BF3C-F6D04E32C168}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -171,6 +173,14 @@ Global
 		{88323596-0A34-4690-B612-D2E260D46B75}.Release|x64.Build.0 = Release|x64
 		{88323596-0A34-4690-B612-D2E260D46B75}.Release|x86.ActiveCfg = Release|Win32
 		{88323596-0A34-4690-B612-D2E260D46B75}.Release|x86.Build.0 = Release|Win32
+		{F2B1927F-88D1-4357-BF3C-F6D04E32C168}.Debug|x64.ActiveCfg = Debug|x64
+		{F2B1927F-88D1-4357-BF3C-F6D04E32C168}.Debug|x64.Build.0 = Debug|x64
+		{F2B1927F-88D1-4357-BF3C-F6D04E32C168}.Debug|x86.ActiveCfg = Debug|Win32
+		{F2B1927F-88D1-4357-BF3C-F6D04E32C168}.Debug|x86.Build.0 = Debug|Win32
+		{F2B1927F-88D1-4357-BF3C-F6D04E32C168}.Release|x64.ActiveCfg = Release|x64
+		{F2B1927F-88D1-4357-BF3C-F6D04E32C168}.Release|x64.Build.0 = Release|x64
+		{F2B1927F-88D1-4357-BF3C-F6D04E32C168}.Release|x86.ActiveCfg = Release|Win32
+		{F2B1927F-88D1-4357-BF3C-F6D04E32C168}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
